@@ -1,4 +1,4 @@
-## Getting Started with Tkinter
+# Getting Started with Tkinter
 <h6>
   Tkinter is Python’s standard GUI (Graphical User Interface) library. It allows you to create desktop applications with windows, buttons, labels, text inputs, and more. Since you're already proficient in Python, learning Tkinter will be smooth for you.
 </h6>
@@ -28,7 +28,7 @@ root.mainloop()  # Run the Tkinter event loop
 - Tkinter Variable Classes [click](#tkinter-variable-classes)
 - Time and Date Handling [click](#time-and-date-handling)
 - Validation in Tkinter [click](#validation-in-tkinter)
-- 
+
 <br>
 <br>
 
